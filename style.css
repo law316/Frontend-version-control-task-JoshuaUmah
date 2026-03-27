@@ -63,3 +63,6 @@ button {
   font-size: 14px;
   color: #d1d5db;
 }
+#site-header nav a:hover {
+  text-decoration: underline;
+}
