@@ -66,3 +66,7 @@ button {
 #site-header nav a:hover {
   text-decoration: underline;
 }
+#site-footer p {
+  font-size: 14px;
+  letter-spacing: 0.3px;
+}
